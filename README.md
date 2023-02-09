@@ -1,14 +1,16 @@
 # Historical Characteristics of Election Violence
 
 #### Purpose:
-This code aims to utilize machine learning to model characteristics of elections that correlate to election-related violence. 
+This code aims to utilize machine learning (ML) to model characteristics of elections that correlate to election-related violence. 
 
 #### Methdology:
-Characteristics of global elections in history are used as independent input variables to train a Random Forest model to predict the level of election-related fatalities recorded in the one year preceeding the date of a given election.
+Characteristics of global elections in history are used as independent input variables to train a Random Forest model to predict the level of election violence that occurred during the year leading up to and associated with a given election.
 
-This analysis measures electoral violence by number of fatalities and classifies the level of electoral violence during an election cycle as one of three categories:
+This analysis measures electoral violence in number of fatalities and classifies the level of electoral violence during an election cycle as one of three categories:
 1. Non-fatal: no election-related fatalities recorded
 2. Low-fatality: 1-3 election-related fatalities recorded
 3. Mass-fatality: 4 or more election-related fatalities recorded
 
-The value of the machine learning model is extract feature importances as a method to identify which characteristics of elections are most informative in assessing the level of violence during an election period. Permutation importance is used to provide of list of historical characteristics of elections that are most influential on the ML model's ability to predict the level of election violence.
+These categories are defined based upon a definition that 4 or more deaths constitutes a mass casualty event. ([Federal Bureau of Investigation](https://www.ojp.gov/ncjrs/virtual-library/abstracts/serial-murder-multi-disciplinary-perspectives-investigators))
+
+The value of the machine learning model is to extract feature importances as a method of identifying which characteristics of elections are most informative in assessing the level of violence during an election period. Permutation importance is a specific tactic for obtaining feature importances. For this analysis, it quantifies the historical characteristics of elections that correlate to election violence by measuring which features are most influential on the ML model's ability to correctly classify the level of violence associated with an election.
