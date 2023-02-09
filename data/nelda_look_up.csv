@@ -22,7 +22,7 @@ nelda20,Was the office of the incumbent leader contested in this election?,Was t
 nelda21,Did the incumbent run?,Did the incumbent run?
 nelda22,If no (nelda21): was there a chosen successor?,"If the incumbent did not run, was there a chosen successor?"
 nelda23,If yes (nelda22): did a successor assume power as a result of the elections?,"If the incumbent did not run and there was a chosen successor, did a successor assume power as a result of the elections?"
-nelda24,Did the incumbent\'s party lose?,Did the incumbent\'s party lose?
+nelda24,Did the incumbent's party lose?,Did the incumbent's party lose?
 nelda25,Were there reliable polls that indicated popularity of ruling political party or of the candidates for office before elections?,Were there reliable polls that indicated popularity of ruling political party or of the candidates for office before elections?
 nelda26,If yes (nelda25): were they favorable for the incumbent?,If there were reliable polls that indicated popularity of ruling political party or of the candidates for office before elections: were they favorable for the incumbent?
 nelda27,Was the vote count a gain for the opposition?,Was the vote count a gain for the opposition?
