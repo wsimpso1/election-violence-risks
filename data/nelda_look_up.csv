@@ -8,7 +8,7 @@ nelda6,"If regular, were these elections early or late relative to the date they
 nelda7,"Before elections, were there clear indications that the incumbent had made a prior decision to give up power?","Before elections, were there clear indications that the incumbent had made a prior decision to give up power?"
 nelda8,Did the incumbent reach his or her term limit?,Did the incumbent reach his or her term limit?
 nelda9,Had the incumbent extended his or her term in office or eligibility to run in elections at any point in the past?,Had the incumbent extended his or her term in office or eligibility to run in elections at any point in the past?
-nelda10,Was the country ruled by “transitional leadership” tasked with “holding elections”?,Was the country ruled by “transitional leadership” tasked with “holding elections”?
+nelda10,Was the country ruled by 'transitional leadership' tasked with 'holding elections'?,Was the country ruled by 'transitional leadership' tasked with 'holding elections'?
 nelda11,"Before elections, are there significant concerns that elections will not be free and fair?","Before elections, are there significant concerns that elections will not be free and fair?"
 nelda12,Was the incumbent or ruling party confident of victory before elections?,Was the incumbent or ruling party confident of victory before elections?
 nelda13,Were opposition leaders prevented from running?,Were opposition leaders prevented from running?
@@ -22,11 +22,11 @@ nelda20,Was the office of the incumbent leader contested in this election?,Was t
 nelda21,Did the incumbent run?,Did the incumbent run?
 nelda22,If no (nelda21): was there a chosen successor?,"If the incumbent did not run, was there a chosen successor?"
 nelda23,If yes (nelda22): did a successor assume power as a result of the elections?,"If the incumbent did not run and there was a chosen successor, did a successor assume power as a result of the elections?"
-nelda24,Did the incumbent’s party lose?,Did the incumbent’s party lose?
+nelda24,Did the incumbent\'s party lose?,Did the incumbent\'s party lose?
 nelda25,Were there reliable polls that indicated popularity of ruling political party or of the candidates for office before elections?,Were there reliable polls that indicated popularity of ruling political party or of the candidates for office before elections?
 nelda26,If yes (nelda25): were they favorable for the incumbent?,If there were reliable polls that indicated popularity of ruling political party or of the candidates for office before elections: were they favorable for the incumbent?
 nelda27,Was the vote count a gain for the opposition?,Was the vote count a gain for the opposition?
-nelda28,Is there evidence that reports critical of the government’s handling of the election reached large numbers of people?,Is there evidence that reports critical of the government’s handling of the election reached large numbers of people?
+nelda28,Is there evidence that reports critical of the government's handling of the election reached large numbers of people?,Is there evidence that reports critical of the government's handling of the election reached large numbers of people?
 nelda29,Were there riots and protests after the election?,Were there riots and protests after the election?
 nelda30,If yes (nelda29): did they involve allegations of vote fraud?,"If there were riots and protests after the election, did they involve allegations of vote fraud?"
 nelda31,If yes (nelda29): did the government use violence against demonstrators?,"If there were riots and protests after the election, did the government use violence against demonstrators?"
@@ -36,7 +36,7 @@ nelda34,Were results that were favorable to the incumbent canceled?,Were results
 nelda35,If yes (nelda34): was this in part a result of wide-spread protests?,"If results that were favorable to the incumbent were canceled, was this in part a result of wide-spread protests?"
 nelda36,If yes (nelda34): was this in part a result of outside pressure?,"If results that were favorable to the incumbent were canceled, was this in part a result of outside pressure?"
 nelda37,"If yes (nelda34), was a new election held?","If results that were favorable to the incumbent were canceled, was a new election held?"
-nelda38,"If yes (nelda37), did victory go to a different party or candidate than at the “initial” stage?","If a new election was held, did victory go to a different party or candidate than at the “initial” stage?"
+nelda38,"If yes (nelda37), did victory go to a different party or candidate than at the 'initial' stage?","If a new election was held, did victory go to a different party or candidate than at the 'initial' stage?"
 nelda39,Was the incumbent replaced?,Was the incumbent replaced?
 nelda40,"If yes (nelda39), did the leader step down because the vote count gave victory to some other political actor?","If the incumbent was replaced, did the leader step down because the vote count gave victory to some other political actor?"
 nelda41,"If yes (nelda39), was the leader replaced as a result of widespread protests?","If the incumbent was replaced, was the leader replaced as a result of widespread protests?"
@@ -50,7 +50,7 @@ nelda50,Is country said to be in good relations with the US before the elections
 nelda51,Is there a negative change in relations with the US after the election?,Is there a negative change in relations with the US after the election?
 nelda52,Is there a positive change in relations with the US after the election?,Is there a positive change in relations with the US after the election?
 nelda53,"Is the country said to have a substantial economic, military or political relationship with a Western country or Western IGO?","Is the country said to have a substantial economic, military or political relationship with a Western country or Western IGO?"
-nelda55,"Is there a negative change in the country’s economic, military or political relationship with a Western country or IGO after the election?","Is there a negative change in the country’s economic, military or political relationship with a Western country or IGO after the election?"
-nelda56,"Is there a positive change in the country’s economic, military or political relationship with a Western country or IGO after the election?","Is there a positive change in the country’s economic, military or political relationship with a Western country or IGO after the election?"
+nelda55,"Is there a negative change in the country's economic, military or political relationship with a Western country or IGO after the election?","Is there a negative change in the country's economic, military or political relationship with a Western country or IGO after the election?"
+nelda56,"Is there a positive change in the country's economic, military or political relationship with a Western country or IGO after the election?","Is there a positive change in the country's economic, military or political relationship with a Western country or IGO after the election?"
 nelda57,"Is aid cut-off, or threatened to be cut-off, by an outside actor at any point before or after the election?","Is aid cut-off, or threatened to be cut-off, by an outside actor at any point before or after the election?"
 nelda58,"Did an outside actor attempt to influence the outcome of the election by making threats to withhold, or by withholding, something of value to the country?","Did an outside actor attempt to influence the outcome of the election by making threats to withhold, or by withholding, something of value to the country?"
