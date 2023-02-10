@@ -31,3 +31,13 @@ These categories are defined based upon a definition that 4 or more deaths const
 2. **The Deadly Electoral Conflict Dataset (DECO)**
     - A georeferenced events dataset from the Uppsala Conflict Data Program (UCDP) that records incidents of electoral violence between 1989-2017 in which at least one election-related fatality occurred
     - Source: https://journals.sagepub.com/doi/full/10.1177/00220027211021620 or https://ucdp.uu.se/downloads/index.html#deco
+
+***
+
+# How to run the .py file
+
+To run the Python script version of the jupyter notebook, simply download the .py file. In a command line interface, run the following command:
+
+`python3 WSimpson_OWID_DataScientist_CodeSnippet.py` 
+
+To script takes about 3 minutes to run and will print out the model performance metrics and the final output list of election characteristics associated with election violence.  
