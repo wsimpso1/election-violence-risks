@@ -4,7 +4,7 @@
 This code aims to utilize machine learning (ML) to model characteristics of elections that correlate to election-related violence. 
 
 #### Methodology:
-Characteristics of global elections in history are used as independent input variables to train a Random Forest model to predict the level of election violence that occurred during the year leading up to and associated with a given election.
+Characteristics of global elections in history are used as independent input variables to train a Random Forest model to identify the level of election violence that occurred during the year leading up to and associated with a given election.
 
 This analysis measures electoral violence in number of fatalities and classifies the level of electoral violence during an election cycle as one of three categories:
 1. Non-fatal: no election-related fatalities recorded
