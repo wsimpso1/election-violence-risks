@@ -40,7 +40,7 @@ To run the Python script version of the jupyter notebook, simply download the .p
 
 `python3 WSimpson_OWID_DataScientist_CodeSnippet.py` 
 
-To script takes about 3 minutes to run and will print out the model performance metrics and the final output list of election characteristics associated with election violence.  
+The script takes about 3 minutes to run and will print out the model performance metrics and the final output list of election characteristics associated with election violence.  
 
 Below is a screenshot of the output produced by running this script. 
 ![Sample CLI output image](https://github.com/wsimpso1/election-violence-risks/blob/main/data/cli_output.png)
